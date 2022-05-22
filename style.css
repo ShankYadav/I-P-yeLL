@@ -1,0 +1,22 @@
+.highlight {
+  border-radius: 0.4rem;
+  color: white;
+  padding: 0.05rem;
+  margin-bottom: 1rem;
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+}
+.green {
+  background-color: LimeGreen;
+}
+.red {
+  background-color: OrangeRed;
+}
+.orange{
+  background-color: Orange;
+}
+.blue {
+  background-color: SKyblue;
+}
